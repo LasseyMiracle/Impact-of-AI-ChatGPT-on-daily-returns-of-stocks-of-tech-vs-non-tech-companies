@@ -1,0 +1,2 @@
+# Impact-of-AI-ChatGPT-on-daily-returns-of-stocks-of-tech-vs-non-tech-companies
+ DiD method is used to determine the impact of ChatGPT launch on the daily returns on stocks of tech companies from 2021 to 2024. The tech companies considered include Google (GOOG),  Facebook (META), Microsoft (MSFT) and the non-tech companies are Johnson &amp; Johnson (JNJ),  McDonalds (MCD) and Shell PLC (SHEL).  And tech companes as treatment group
